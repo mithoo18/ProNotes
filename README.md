@@ -27,15 +27,10 @@ $ git remote remove origin
 </tr>
 </table>
 
-### Demo
-<table>
-<tr>
-Link:- https://youtu.be/dnrLoNWtwTE
-</tr>
-<tr>
-Link:- https://youtu.be/ausJkH9BZdw
-</tr>
-</table>
+### Demo 
+
+- Link:- https://youtu.be/dnrLoNWtwTE
+- Link:- https://youtu.be/ausJkH9BZdw
 
 #### Developed with ❤ by @Devanshu || mithoo18.
 
