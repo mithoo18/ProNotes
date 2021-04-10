@@ -21,8 +21,6 @@ $ git remote remove origin
   <td><img align="left" src="https://github.com/mithoo18/ProNotes/blob/master/gitimg/2.jpg" alt="Splash Screen" /></td>
 
 <td><img align="right" src="https://github.com/mithoo18/ProNotes/blob/master/gitimg/1.jpg" alt="Main Screen" /></td>
-</tr>
-<tr>
   <td><img align="left" src="https://github.com/mithoo18/ProNotes/blob/master/gitimg/4.jpg" alt="Navigation Drawer" /></td>
 
 <td><img align="right" src="https://github.com/mithoo18/ProNotes/blob/master/gitimg/3.jpg" alt="Add Notes" /></td>
@@ -30,9 +28,14 @@ $ git remote remove origin
 </table>
 
 ### Demo
-
+<table>
+<tr>
 Link:- https://youtu.be/dnrLoNWtwTE
+</tr>
+<tr>
 Link:- https://youtu.be/ausJkH9BZdw
+</tr>
+</table>
 
 #### Developed with ❤ by @Devanshu || mithoo18.
 
