@@ -14,6 +14,10 @@ $ git remote remove origin
 ```
 
 ---
+### About Application 
+- Technology Used :-Android Studio,Material Design,Firebase
+- Feature :- Login,Sign in Notes Firebase,Retrieve Notes From Firebase,Save/Edit/Delete Notes,Navigation,Ui and UX
+
 
 ### How it looks 
 <table>
